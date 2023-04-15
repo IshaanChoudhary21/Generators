@@ -1,2 +1,4 @@
-# QRCOde-Generator
-This contains python code for generating qr code for any URL
+# QRCOde-Generator & Random pasword generator
+This Repo contains  two python file :
+1. QRcode Genrator
+2. random password Genrator
